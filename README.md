@@ -10,8 +10,8 @@ DevOps Engineer em formação.
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws)
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pauloojr&show_icons=true&theme=default"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloojr&layout=compact&theme=default"/>
+  https://github-readme-stats.vercel.app/api?username=pauloojr
+  https://github-readme-stats.vercel.app/api/top-langs/?username=pauloojr
 </p>
 
 ## Tech Stack

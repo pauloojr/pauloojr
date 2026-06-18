@@ -19,20 +19,16 @@ DevOps Engineer em formação.
 - Linux
 - Python
 
-## Projetos
+## Projetos em Destaque
 
 ### DevOps Docker CI
-Pipeline CI/CD completa com:
-- Docker
-- GitHub Actions
-- Trivy
-- GHCR
+CI/CD pipeline com GitHub Actions, Docker, Trivy, GHCR e Versionamento Semântico.
 
 ### Vault DevOps
-Gerenciamento seguro de segredos.
+Gerenciamento seguro de segredos e credenciais.
 
 ### Terraform AWS Labs
-Infraestrutura como código na AWS.
+Laboratórios de infraestrutura como código utilizando Terraform e AWS.
 
 ## Certificações em andamento
 

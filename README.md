@@ -12,14 +12,11 @@ DevOps Engineer em formação.
 
 ## Projetos em Destaque
 
-### DevOps Docker CI
-CI/CD pipeline com GitHub Actions, Docker, Trivy, GHCR e Versionamento Semântico.
+### [DevOps Docker CI](https://github.com/pauloojr/devops-docker-ci)
 
-### Vault DevOps
-Gerenciamento seguro de segredos e credenciais.
+### [Vault DevOps](https://github.com/pauloojr/vault-devops)
 
-### Terraform AWS Labs
-Laboratórios de infraestrutura como código utilizando Terraform e AWS.
+### [Terraform AWS Labs](https://github.com/pauloojr/terraform-aws-labs)
 
 ## Certificações em andamento
 

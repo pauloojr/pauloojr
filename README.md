@@ -14,6 +14,12 @@ DevOps Engineer em formação.
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloojr&layout=compact&theme=default"/>
 </p>
 
+## Tech Stack
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,githubactions,linux,python" />
+</p>
+
 ## Tecnologias
 
 - AWS

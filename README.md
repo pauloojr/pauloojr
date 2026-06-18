@@ -13,8 +13,8 @@ DevOps Engineer em formação.
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=pauloojr&show_icons=true" />
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pauloojr&layout=compact" />
 </p>
-## Tech Stack
 
+## Tech Stack
 <p>
   <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,githubactions,linux,python" />
 </p>

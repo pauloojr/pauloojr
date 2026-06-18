@@ -4,16 +4,6 @@
 
 DevOps Engineer em formação.
 
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?logo=terraform)
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions)
-![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws)
-
-<p align="center">
-  https://github-readme-stats.vercel.app/api?username=pauloojr
-  https://github-readme-stats.vercel.app/api/top-langs/?username=pauloojr
-</p>
-
 ## Tech Stack
 
 <p>

@@ -20,16 +20,6 @@ DevOps Engineer em formação.
   <img src="https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,githubactions,linux,python" />
 </p>
 
-## Tecnologias
-
-- AWS
-- Terraform
-- Docker
-- Kubernetes
-- GitHub Actions
-- Linux
-- Python
-
 ## Projetos em Destaque
 
 ### DevOps Docker CI

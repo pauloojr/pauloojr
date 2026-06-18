@@ -36,4 +36,4 @@ Infraestrutura como código na AWS.
 
 ## Contato
 
-LinkedIn: ...
+LinkedIn: www.linkedin.com/in/paulojúnior

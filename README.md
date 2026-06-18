@@ -8,7 +8,7 @@ DevOps Engineer em formação.
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazonaws)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pauloojr&show_icons=true) /
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pauloojr&show_icons=true) 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pauloojr&layout=compact)
 

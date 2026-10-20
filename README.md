@@ -1,5 +1,5 @@
 # Paulo Júnior
-**Cloud & DevOps Engineer**
+**Cloud & DevOps Engineer | Platform Engineering**
 
 Building scalable, secure, and observable cloud-native platforms. Passionate about Kubernetes, GitOps, and Infrastructure as Code.
 
@@ -13,25 +13,16 @@ Building scalable, secure, and observable cloud-native platforms. Passionate abo
 
 ---
 
-## Featured Projects
+## Flagship Ecosystem: Enterprise Platform Engineering
 
-### 1. Enterprise GitOps Platform on Azure AKS
-**Problem:** Need for a reliable, automated, and secure deployment pipeline for microservices without manual intervention.
-**Solution:** Engineered a complete GitOps workflow using **Terraform** for infrastructure provisioning, **GitHub Actions** for CI (with **Trivy** vulnerability scanning and Distroless containers), and **Argo CD** for declarative CD.
-**Impact:** Achieved zero-downtime deployments, enforced immutable infrastructure, and reduced operational overhead by automating the entire delivery lifecycle.
-* [View Project](https://github.com/pauloojr/k8s-cicd-pipeline)
+I design and maintain an end-to-end Cloud-Native platform that demonstrates the complete software delivery lifecycle, applying strict GitOps and DevSecOps principles.
 
-### 2. Cloud-Native Observability & Telemetry Stack
-**Problem:** Lack of visibility into cluster health and application performance bottlenecks.
-**Solution:** Deployed the **kube-prometheus-stack** via Helm and Argo CD. Instrumented a Go API with custom Prometheus metrics (histograms/counters) and provisioned **Grafana** Dashboards-as-Code.
-**Impact:** Enabled proactive monitoring with Alertmanager, tracking SLIs/SLOs in real-time and reducing Mean Time to Detect (MTTD) anomalies.
-* [View Project](https://github.com/pauloojr/k8s-observability-stack)
+### The Architecture
+1.  **[Infrastructure as Code](https://github.com/pauloojr/infra-terraform-azure):** Automated provisioning of Azure Kubernetes Service (AKS) and networking using **Terraform**. Implements remote backend state locking and FinOps practices via Spot node pools.
+2.  **[Continuous Integration & DevSecOps](https://github.com/pauloojr/core-api):** A Go-based API utilizing **GitHub Actions** for CI. Enforces zero-trust builds with **Distroless** images, rootless execution, and container vulnerability scanning via **Trivy** before pushing to GHCR.
+3.  **[Continuous Delivery & Observability](https://github.com/pauloojr/kind-gitops-lab):** Declarative state management via **Argo CD** utilizing the Multi-Source pattern. Integrates the `kube-prometheus-stack` with Server-Side Apply for complete telemetry, dynamic Ingress routing via NGINX, and Dashboards-as-Code.
 
-### 3. Distributed Tracing Implementation
-**Problem:** Difficulty in tracking request flows across distributed microservices.
-**Solution:** Implemented distributed tracing utilizing **OpenTelemetry Collector**, **Tempo**, and **Grafana** via OTLP.
-**Impact:** Provided deep visibility into microservice transactions, allowing rapid identification of high-latency nodes and bottlenecks.
-* [View Project](https://github.com/pauloojr/k8s-tracing-stack)
+**Impact:** Reduced deployment friction, eliminated configuration drift, and established a production-grade observability baseline.
 
 ---
 
@@ -55,5 +46,5 @@ Building scalable, secure, and observable cloud-native platforms. Passionate abo
 ---
 
 ## Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulojúnior)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paulojunior)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pauloojr)
